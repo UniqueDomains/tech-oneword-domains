@@ -1,22 +1,22 @@
-# Available .TECH One-Word Domains (70,832)
+# Available .TECH One-Word Domains (71,196)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-70%2C832%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-71%2C196%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .tech one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **70,832 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **71,196 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 70,832 domains
+**Public extract:** 1,000 rows · **Live catalog:** 71,196 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/tech`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TECH one-word domain 
 
 ### Files
 
-- `tech.csv` — public CSV extract (10,000 rows)
-- `tech.json` — public JSON extract (10,000 rows)
+- `tech.csv` — public CSV extract (1,000 rows)
+- `tech.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| getoutthevote.tech     | available | $49.98    | —             | 74             | 80     | 16     | namecheap                                           |
-| Lamborghini.tech       | resell    | —         | —             | 84             | 100    | 11     | Namecheap                                           |
-| body.tech              | premium   | $3,125    | $12,500       | 62             | 96     | 4      | name.com                                            |
-| stonework.tech         | available | $13.99    | $84.99        | 56             | 80     | 9      | name.com                                            |
-| privacy.tech           | resell    | —         | —             | 68             | 96     | 7      | Dynadot LLC                                         |
-| Abe.tech               | premium   | $325      | $1,300        | 62             | 92     | 3      | namecheap                                           |
-| internalmedicine.tech  | available | $13.99    | $84.99        | 60             | 76     | 17     | name.com                                            |
-| wager.tech             | resell    | —         | —             | 54             | 96     | 5      | Dynadot LLC                                         |
-| karaoke.tech           | premium   | $312.50   | $1,250        | 94             | 88     | 7      | name.com                                            |
-| investmentcasting.tech | available | $13.99    | $84.99        | 60             | 76     | 18     | name.com                                            |
-| deeplearning.tech      | resell    | —         | —             | 78             | 92     | 13     | One.com A/S                                         |
-| admission.tech         | premium   | $781.25   | $3,125        | 66             | 88     | 9      | name.com                                            |
-| abided.tech            | available | $48.48    | —             | 70             | 72     | 6      | namecheap                                           |
-| CLT.tech               | resell    | —         | —             | 70             | 92     | 3      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
-| collection.tech        | premium   | $78.12    | $312.50       | 64             | 88     | 10     | name.com                                            |
-| linearalgebra.tech     | available | $13.99    | $84.99        | 54             | 72     | 14     | name.com                                            |
-| equip.tech             | resell    | —         | —             | 66             | 92     | 5      | One.com A/S                                         |
-| bookkeeping.tech       | premium   | $156.25   | $625          | 60             | 88     | 11     | name.com                                            |
-| massproduction.tech    | available | $13.99    | $84.99        | 54             | 72     | 15     | name.com                                            |
-| shroom.tech            | resell    | —         | —             | 78             | 88     | 6      | Go Daddy, LLC                                       |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| massproduction.tech | available | $13.99    | $84.99        | 54             | 72     | 15     | name.com                                            |
+| Lamborghini.tech    | resell    | —         | —             | 84             | 100    | 11     | Namecheap                                           |
+| agricultural.tech   | premium   | $650      | $1,300        | 74             | 84     | 12     | namecheap                                           |
+| abaxially.tech      | available | $49.98    | —             | 44             | 72     | 9      | namecheap                                           |
+| ignition.tech       | resell    | —         | —             | 70             | 88     | 8      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
+| accounting.tech     | premium   | $1,625    | $3,250        | 64             | 84     | 10     | namecheap                                           |
+| saveit.tech         | available | $13.99    | —             | 74             | 13     | 7      | name.com                                            |
+| treasury.tech       | resell    | —         | —             | 68             | 84     | 8      | Namecheap                                           |
+| oral.tech           | premium   | $312.50   | $1,250        | 58             | 84     | 4      | name.com                                            |
+| howdo.tech          | available | $13.99    | —             | 58             | 13     | 6      | name.com                                            |
+| otter.tech          | resell    | —         | —             | 56             | 84     | 5      | HOSTINGER operations, UAB                           |
+| coal.tech           | premium   | $312.50   | $1,250        | 50             | 84     | 4      | name.com                                            |
+| keepsecret.tech     | available | $13.99    | —             | 48             | 12     | 11     | name.com                                            |
+| Minecraft.tech      | resell    | —         | —             | 91             | 81     | 9      | Sav.com, LLC - 25                                   |
+| internship.tech     | premium   | $3,125    | $12,500       | 62             | 80     | 10     | name.com                                            |
+| MickeyMouse.tech    | available | $58.98    | —             | 86             | 11     | 12     | namecheap                                           |
+| agents.tech         | resell    | —         | —             | 56             | 50     | 6      | Spaceship, Inc.                                     |
+| cladding.tech       | premium   | $78.12    | $312.50       | 54             | 80     | 8      | name.com                                            |
+| bearinmind.tech     | available | $13.99    | —             | 76             | 11     | 12     | name.com                                            |
+| quick.tech          | resell    | —         | —             | 72             | 41     | 5      | Spaceship, Inc.                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 70,832 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 71,196 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TECH One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TECH One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
