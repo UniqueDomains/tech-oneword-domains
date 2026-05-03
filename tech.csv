@@ -193,6 +193,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7f1734bd-73ee-4fc9-b0a1-d1da3c946e75,waitout.tech,available,13.99,,63,1,8,name.com,,
 7f75c34b-98ea-4c35-b4e3-b50593577f57,cherryblossom.tech,resell,,,78,20,14,"Chengdu West Dimension Digital Technology Co., Ltd.",05/03/2026 07:08,05/03/2027 23:59
 7fc11bf1-a3b2-49b0-823f-3b46be650665,traps.tech,premium,156.25,,68,7,5,name.com,,
+807279a6-0201-4f6e-8400-da1534aea540,tea.tech,premium,,,78,37,3,,,
 822603c0-d9f8-45ce-9de0-b6cd29ccf98d,bandits.tech,premium,156.25,,40,10,7,name.com,,
 845bbbdc-4d61-40e9-9a6b-be333c94b9c7,hosts.tech,resell,,,52,18,5,Squarespace Domains LLC,24/03/2024 13:51,24/03/2027 23:59
 84714c4b-3da3-4a22-8130-dc9b2771458f,gonegative.tech,available,13.99,,66,1,11,name.com,,
@@ -808,7 +809,7 @@ baebe943-35e6-4bdb-99e4-63157759c642,phytophagy.tech,premium,,,,4,10,,,
 9ce2629c-f815-4872-a4c6-624e15eeae9c,microevolution.tech,premium,,,54,12,14,,,
 fb68113d-c60d-4a8f-a755-8d07e3a8ab94,cornryebread.tech,premium,,,50,4,14,,,
 1b478063-8751-4721-8490-f2c706bdb8e5,borne.tech,premium,,,66,12,5,,,
-3ecb85e3-04ae-4aa6-a3d3-57fa4cc2b277,wound.tech,resell,,,88,14,5,Xin Net Technology Corporation,08/06/2019 08:44,08/06/2026 23:59
+3ecb85e3-04ae-4aa6-a3d3-57fa4cc2b277,wound.tech,resell,,,88,15,5,Xin Net Technology Corporation,08/06/2019 08:44,08/06/2026 23:59
 aa89ac82-92bd-422c-b457-8b047e3b34ec,invigilator.tech,premium,,,60,72,11,,,
 da4815f1-7238-4074-be0a-39fd9c2b8bac,ser.tech,premium,,,76,19,3,,,
 b13de803-b26b-486b-869f-2d9174c8203d,chargeback.tech,premium,,,54,88,10,,,
@@ -890,7 +891,7 @@ db3521cd-6197-4253-be91-36f07c7acbd0,coal.tech,premium,312.5,1250,50,84,4,name.c
 f2998e11-4db9-4e91-951e-6d6ed8ad03e5,funnythat.tech,premium,,,46,4,10,,,
 df30b1bf-93bc-4cc1-955c-d1d8dfc68e6c,pensively.tech,premium,,,46,72,9,,,
 0fd7c2d1-ea5e-480a-9db9-ef3d804181be,afore.tech,premium,,,54,84,5,,,
-ac9d0091-61b8-47ad-b4e4-c2009b4e0ef1,almost.tech,premium,,,92,19,6,,,
+ac9d0091-61b8-47ad-b4e4-c2009b4e0ef1,almost.tech,premium,,,92,18,6,,,
 2b39c0ca-43e7-454e-82dd-45e4999d59ea,earlyadopter.tech,premium,,,70,3,13,,,
 149cc388-f2c7-4f16-bdbd-d8a2cb6253f2,functioncreep.tech,premium,,,36,72,14,,,
 fda7e61e-b534-4874-a435-a51f64b845b1,sombrero.tech,premium,,,46,80,8,,,
@@ -998,4 +999,3 @@ e7a39486-f555-416b-81a9-a2b26608df2e,abitmuch.tech,premium,,,60,24,10,,,
 3188b375-492f-4867-911a-7fc2ac0e4f68,threewood.tech,premium,,,,24,10,,,
 b93ec912-0327-421f-a733-c8ea1dfd4456,coupon.tech,premium,,,86,88,6,,,
 c87433d4-920b-4f2a-bdd7-db8c39b0916c,frolicsome.tech,premium,,,48,72,10,,,
-794527b4-3a69-44aa-bd83-dd2c0d366505,retardant.tech,premium,,,76,1,9,,,
