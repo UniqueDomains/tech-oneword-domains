@@ -45,7 +45,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 18a872d6-93ac-4fd1-b7ad-dde54eb3b290,gettingeven.tech,available,13.99,,48,1,12,name.com,,
 18e7f3c2-f958-48e5-b520-dedf297a0a30,woes.tech,premium,156.25,,46,4,4,name.com,,
 1a63a7e2-3beb-4832-95fa-d5922b97f58c,messed.tech,premium,87.5,350,46,2,6,namecheap,,
-1aa2b56f-6acb-4f0c-bda6-23503e1167a7,nomnomnom.tech,available,13.99,,84,5,11,name.com,,
+1aa2b56f-6acb-4f0c-bda6-23503e1167a7,nomnomnom.tech,available,13.99,,84,6,11,name.com,,
 1aaa932e-b6f9-49b2-bf75-093a85b79453,sedated.tech,available,13.99,,43,2,7,name.com,,
 1bf44fe6-9293-4baa-8e4f-8ca7d034790d,sitaround.tech,available,13.99,,66,1,10,name.com,,
 1cfd291e-5056-494a-a34c-6f5485f70e91,flashfloods.tech,available,8.99,68.99,42,1,12,namesilo,,
@@ -54,7 +54,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1da60456-c9bb-4938-a428-0ecf5ea54939,overwith.tech,available,13.99,,60,1,9,name.com,,
 1e4ad7c9-7899-44d2-955b-0d7577960be6,somuchfor.tech,available,13.99,,46,0,11,name.com,,
 1e6153e8-4464-4972-9e65-3440915cbf17,worldsapart.tech,available,13.99,,64,3,12,name.com,,
-1ea91651-84e9-4795-b583-c1d933e069e4,trillionaire.tech,resell,,,84,11,12,NAME DOT STORE INC,19/02/2026 22:27,19/02/2027 23:59
+1ea91651-84e9-4795-b583-c1d933e069e4,trillionaire.tech,resell,,,84,12,12,Namify Domains Inc,19/02/2026 22:27,19/02/2027 23:59
 1ef7b2e8-d914-4344-8d22-2d2d6a62d98a,highseas.tech,resell,,,74,6,9,"Xiamen ChinaSource Internet Service Co., Ltd",02/10/2025 08:22,02/10/2026 23:59
 1f61a911-b18f-447f-9a7a-6ea729e5d6a6,goastray.tech,available,13.99,,66,1,9,name.com,,
 20cb5060-8b1a-4780-a9e8-8fc91e3a969a,scratches.tech,premium,87.5,350,60,4,9,namecheap,,
@@ -482,7 +482,7 @@ bebd2e52-6786-41ee-b849-fedd0c454815,readalong.tech,premium,,,,84,10,,,
 518fd7da-ace0-4668-add0-f7c7be2b866a,kerfluffles.tech,premium,,,38,4,11,,,
 ce8bf7a8-ad93-4ad7-9b1b-72304cb8a6a0,oral.tech,premium,312.5,1250,58,84,4,name.com,,
 792e78e6-b703-47ed-8708-d80b370b0631,Bolingbrook.tech,premium,,,48,76,11,,,
-8e2d9cf0-e792-41fb-887d-14c266df8dce,committing.tech,premium,,,64,1,10,,,
+8e2d9cf0-e792-41fb-887d-14c266df8dce,committing.tech,premium,,,64,2,10,,,
 d6752541-6f1c-47b6-8b06-bc710dfba7f6,icemelt.tech,premium,,,60,76,7,,,
 b7abe2f2-712b-4f01-964f-5fea670c2fcb,ancienttimes.tech,premium,,,,72,13,,,
 72abd610-a8ea-4541-825b-b8be7ed98367,otter.tech,resell,,,56,84,5,"HOSTINGER operations, UAB",04/12/2015 02:07,04/12/2025 23:59
