@@ -77,7 +77,7 @@ print(df.head())
 | otter.tech          | resell    | —         | —             | 56             | 84     | 5      | HOSTINGER operations, UAB                           |
 | coal.tech           | premium   | $312.50   | $1,250        | 50             | 84     | 4      | name.com                                            |
 | keepsecret.tech     | available | $13.99    | —             | 48             | 12     | 11     | name.com                                            |
-| Minecraft.tech      | resell    | —         | —             | 91             | 81     | 9      | Sav.com, LLC - 25                                   |
+| Minecraft.tech      | resell    | —         | —             | 91             | 82     | 9      | Sav.com, LLC - 25                                   |
 | internship.tech     | premium   | $3,125    | $12,500       | 62             | 80     | 10     | name.com                                            |
 | MickeyMouse.tech    | available | $58.98    | —             | 86             | 11     | 12     | namecheap                                           |
 | agents.tech         | resell    | —         | —             | 56             | 50     | 6      | Spaceship, Inc.                                     |

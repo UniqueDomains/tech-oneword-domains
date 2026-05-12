@@ -204,7 +204,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 869ba9e2-543d-4258-9df0-8ffe36a07a65,defaulted.tech,available,8.99,68.99,42,2,9,namesilo,,
 86d48604-e2d9-496d-b453-f908bb16607e,killed.tech,available,13.99,,56,5,6,name.com,,
 8750fc22-6e45-4e34-8e87-62f58ecfa447,flipthescript.tech,available,13.99,,72,6,15,name.com,,
-87521132-c281-4866-997e-b9faf7c6fefd,Minecraft.tech,resell,,,91,81,9,"Sav.com, LLC - 25",17/02/2026 02:20,17/02/2027 23:59
+87521132-c281-4866-997e-b9faf7c6fefd,Minecraft.tech,resell,,,91,82,9,"Sav.com, LLC - 25",17/02/2026 02:20,17/02/2027 23:59
 879e5ec2-ad14-41b9-ad90-5f5d8f3415b6,resteasy.tech,available,13.99,,79,4,9,name.com,,
 87af6d49-9e2e-4207-89ea-1fcf34f8ee4b,godownhill.tech,available,13.99,,68,1,11,name.com,,
 88d77c47-1a5c-4be8-87ec-037a83590493,toexcess.tech,available,13.99,,55,0,9,name.com,,
@@ -357,6 +357,7 @@ e8ff82b8-be94-4ab7-a05e-9265cf9c6fdd,shouts.tech,available,13.99,,47,5,6,name.co
 e914e1d5-f85e-45d9-a2e1-778ab3ac74b4,LoneRanger.tech,available,58.98,,70,4,11,namecheap,,
 e91a91e3-a31f-4c44-aafe-9ca3c78f10a5,brainwaves.tech,resell,,,56,8,10,"Chengdu West Dimension Digital Technology Co., Ltd.",18/10/2024 13:53,18/10/2026 23:59
 e9460dab-7994-4892-bdda-d061ae1874de,slipitto.tech,available,13.99,,64,1,10,name.com,,
+e990a536-f193-4450-8c30-bb241b407455,matrixgroup.tech,premium,,,68,6,12,,,
 e9f95412-8e21-4381-9897-14a2cf283b72,stepup.tech,resell,,,78,19,7,Squarespace Domains LLC,17/02/2024 01:06,17/02/2027 23:59
 eb40c72f-dcb4-4652-ad51-0de26ccaac4a,generalknowledge.tech,available,13.99,,76,4,17,name.com,,
 eb601d43-ef4b-464f-8844-f991cb458801,possibilities.tech,available,13.99,,52,7,13,name.com,,
@@ -998,4 +999,3 @@ eb37eae3-7ff6-45ff-b343-70f4700e7d85,haircloth.tech,premium,,,55,72,9,,,
 a53f1403-17dc-4691-bbb5-7b87062ebcb3,grazing.tech,premium,,,64,76,7,,,
 415cf7b8-1dd4-4d01-ad8c-25dc6ef29a7a,musicstick.tech,premium,,,68,72,11,,,
 fd6a356c-594c-4a62-a84d-537607495afa,clearinghouses.tech,premium,,,40,16,14,,,
-b2405e01-c4cc-4373-b353-7238463290b9,dipsticks.tech,premium,,,36,12,9,,,
