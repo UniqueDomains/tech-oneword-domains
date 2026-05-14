@@ -76,13 +76,13 @@ print(df.head())
 | howdo.tech          | available | $13.99    | —             | 58             | 13     | 6      | name.com                                            |
 | otter.tech          | resell    | —         | —             | 56             | 84     | 5      | HOSTINGER operations, UAB                           |
 | coal.tech           | premium   | $312.50   | $1,250        | 50             | 84     | 4      | name.com                                            |
-| keepsecret.tech     | available | $13.99    | —             | 48             | 12     | 11     | name.com                                            |
+| MickeyMouse.tech    | available | $58.98    | —             | 86             | 11     | 12     | namecheap                                           |
 | Minecraft.tech      | resell    | —         | —             | 91             | 82     | 9      | Sav.com, LLC - 25                                   |
 | internship.tech     | premium   | $3,125    | $12,500       | 62             | 80     | 10     | name.com                                            |
-| MickeyMouse.tech    | available | $58.98    | —             | 86             | 11     | 12     | namecheap                                           |
+| bearinmind.tech     | available | $13.99    | —             | 76             | 11     | 12     | name.com                                            |
 | agents.tech         | resell    | —         | —             | 56             | 50     | 6      | Spaceship, Inc.                                     |
 | cladding.tech       | premium   | $78.12    | $312.50       | 54             | 80     | 8      | name.com                                            |
-| bearinmind.tech     | available | $13.99    | —             | 76             | 11     | 12     | name.com                                            |
+| getlucky.tech       | available | $13.99    | —             | 84             | 10     | 9      | name.com                                            |
 | quick.tech          | resell    | —         | —             | 72             | 43     | 5      | Spaceship, Inc.                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
