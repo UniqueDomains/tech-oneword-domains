@@ -31,9 +31,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 12cfcf2a-dc52-42f0-85cb-64405a193154,sorethroat.tech,available,13.99,,64,2,11,name.com,,
 132472dc-8dde-419d-8be6-3d14094614b6,shorted.tech,premium,87.5,350,61,4,7,namecheap,,
 135e78cf-b194-4713-9e58-c26c74684410,mathematics.tech,resell,,,68,19,11,Squarespace Domains LLC,29/11/2020 03:54,29/11/2026 23:59
-1397d5c6-6e24-47de-ac2e-995c713d1651,leaveover.tech,available,13.99,,70,1,10,name.com,,
+1397d5c6-6e24-47de-ac2e-995c713d1651,leaveover.tech,available,13.99,,70,0,10,name.com,,
 147116d3-e9b4-40b4-bb9b-a9c1cde15725,bedamned.tech,available,13.99,,38,1,9,name.com,,
 14819a02-8316-465d-8163-db634b665c50,playon.tech,resell,,,80,14,7,Dynadot Inc,12/12/2025 02:28,12/12/2026 23:59
+1489ddfb-b679-4098-bf3e-1574b6b0662d,wannabet.tech,premium,,,62,6,9,,,
 157b4768-c91c-46c4-80cb-0cffd73e7b2a,abilities.tech,resell,,,74,4,9,Xin Net Technology Corporation,26/05/2022 00:49,26/05/2026 23:59
 15c33421-5c48-4682-85f5-63fef79cbbb6,bonvoyage.tech,resell,,,88,16,10,West263 International Limited,25/12/2025 05:00,25/12/2026 23:59
 164d09f4-c748-4695-a931-1903e5510f9b,suspecting.tech,available,13.99,,48,1,10,name.com,,
@@ -67,7 +68,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 25c0e9a2-cfab-4c1c-88b2-4ac9132b00e6,postponement.tech,available,13.99,,57,1,12,name.com,,
 26448d30-469c-4835-b7ee-3b1b4982536d,fundamentalism.tech,available,13.99,,58,2,14,name.com,,
 27aeb28f-37d9-46db-a9d8-a8994cfb9b89,ghosts.tech,premium,1562.5,,48,14,6,name.com,,
-28491b1c-b090-48d6-a907-236681b207a4,lies.tech,premium,156.25,,60,12,4,name.com,,
+28491b1c-b090-48d6-a907-236681b207a4,lies.tech,premium,156.25,,60,11,4,name.com,,
 2895bf6d-5688-4583-8686-76a19a7996c6,twits.tech,available,8.99,68.99,46,3,5,namesilo,,
 289f4b47-d02f-4edb-96b6-ef24536d1de0,germs.tech,premium,156.25,,40,5,5,name.com,,
 2971cdc0-45f9-4cda-8299-432ab0ed043b,underprotest.tech,available,13.99,,30,1,13,name.com,,
@@ -79,7 +80,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2b36fb0c-e60a-4be8-8b4f-20f8422c5d46,midlifecrisis.tech,available,13.99,,58,9,15,name.com,,
 2bbe9207-05fb-4792-87ff-c8f38d16627d,gonedownthetube.tech,available,8.99,68.99,30,1,18,namesilo,,
 2cd949c2-1101-4203-96c8-2fefdcb4c0ad,FinalJudgment.tech,available,58.98,,54,2,14,namecheap,,
-2ce14a60-3f12-443f-84c3-f272fa5c78ee,letusgo.tech,available,13.99,,57,4,9,name.com,,
+2ce14a60-3f12-443f-84c3-f272fa5c78ee,letusgo.tech,available,13.99,,57,3,9,name.com,,
 2cfb2638-6b02-4b17-ba44-faf46b74b8f9,shoveover.tech,available,13.99,,59,1,10,name.com,,
 2d687f29-755f-4822-b704-b68b1352baf1,goballistic.tech,available,13.99,,68,2,12,name.com,,
 2d7f3ecb-9f89-4596-8d4d-4e33f3d38f2a,slowed.tech,available,13.99,,48,3,6,name.com,,
@@ -91,9 +92,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3483e202-f8a2-44d6-8c53-66f720d42111,dropabombshell.tech,available,13.99,,58,0,16,name.com,,
 349625a5-6935-4faa-bf86-5d5b5707262c,overwhelmed.tech,premium,312.5,,48,5,11,name.com,,
 349d8b02-d55b-4f3a-be57-633161309585,pals.tech,resell,,,77,16,4,Squarespace Domains LLC,16/04/2019 19:41,16/04/2027 23:59
-34bbb241-86da-47a9-9559-f990e1815efd,couldnotcareless.tech,available,13.99,,38,0,19,name.com,,
+34bbb241-86da-47a9-9559-f990e1815efd,couldnotcareless.tech,available,13.99,,38,1,19,name.com,,
 3537a943-f8f7-4439-b3e5-0a6cbe583ed3,filewith.tech,available,13.99,,68,2,9,name.com,,
-3580d2f5-4f7c-43e2-9ff1-2a476a73c613,indanger.tech,available,13.99,,60,1,9,name.com,,
+3580d2f5-4f7c-43e2-9ff1-2a476a73c613,indanger.tech,available,13.99,,60,2,9,name.com,,
 36aaf718-4492-4e65-b1f3-ba6a4890b94d,smashinto.tech,available,13.99,,38,0,10,name.com,,
 36c17332-ccc4-427d-87eb-18a1aafb367b,razorburn.tech,available,13.99,,60,1,10,name.com,,
 375ccb43-7a4a-41a5-bcc5-2b4f09024793,sneezed.tech,available,13.99,,47,2,7,name.com,,
@@ -116,7 +117,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 445a90c6-f748-4535-8506-c20e05470382,translating.tech,resell,,,54,7,11,Squarespace Domains LLC,04/01/2020 00:44,04/01/2027 23:59
 4547cfb7-d1c7-41ba-b696-7b38475aad7b,Ihateyou.tech,available,58.98,,52,4,10,namecheap,,
 4590f684-f427-4bab-883b-a67880a6138e,strangers.tech,premium,312.5,,46,9,9,name.com,,
-474054f3-a7dc-455e-bd5a-67e152ddd9ab,makeit.tech,resell,,,82,22,7,Xin Net Technology Corporation,08/10/2019 07:16,08/10/2027 23:59
+474054f3-a7dc-455e-bd5a-67e152ddd9ab,makeit.tech,resell,,,82,21,7,Xin Net Technology Corporation,08/10/2019 07:16,08/10/2027 23:59
 47993213-b4e6-43a4-ac4f-c7c2a385ef7a,mosquitos.tech,premium,312.5,,42,5,9,name.com,,
 48188ce4-a35c-4fa6-b910-da3aadeeb53c,SaintGeorge.tech,available,58.98,,54,6,12,namecheap,,
 4829978d-3ace-4c54-8290-a7cad1b55e28,uptill.tech,available,13.99,,50,1,7,name.com,,
@@ -145,9 +146,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58393704-fad0-4847-b9bf-bd843623ef11,unsettles.tech,available,8.99,68.99,43,1,9,namesilo,,
 597ae83c-9837-447c-82d9-707b3949e0a6,havenousefor.tech,available,13.99,,56,0,15,name.com,,
 5aa5bd66-5b96-4041-b62d-dc3ee848a00a,quick.tech,resell,,,72,43,5,"Spaceship, Inc.",27/02/2020 21:57,27/02/2027 23:59
-5b2c5418-aafa-43a3-aab2-bf7e4521dcb3,backtaxes.tech,available,13.99,,62,3,10,name.com,,
+5b2c5418-aafa-43a3-aab2-bf7e4521dcb3,backtaxes.tech,available,13.99,,62,2,10,name.com,,
 5b2cd78d-9783-4a59-8337-52f9b07ccb24,filetype.tech,available,13.99,,64,3,9,name.com,,
-5b6a260c-f7d7-4a85-8782-e78cad29bc54,keepoutof.tech,available,13.99,,68,0,11,name.com,,
+5b6a260c-f7d7-4a85-8782-e78cad29bc54,keepoutof.tech,available,13.99,,68,1,11,name.com,,
 5bbb4a48-0b79-40fe-89db-9f8eb899acc3,gettogether.tech,available,13.99,,82,8,12,name.com,,
 5f9ad2d7-dd4f-4b63-8c86-94ca7846edac,wastes.tech,premium,156.25,,50,4,6,name.com,,
 60640336-0993-4036-9aef-a377222ee161,waitup.tech,available,13.99,,63,2,7,name.com,,
@@ -181,7 +182,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 731540c5-62b9-4e9f-87f0-46a647f9e0d6,filetypes.tech,available,8.99,68.99,46,3,9,namesilo,,
 735b8fba-49be-4ac4-9b4e-61ece6da70a8,alcoholics.tech,premium,156.25,,38,4,10,name.com,,
 7460059b-455c-42bc-9f01-3e95a16ce153,stuffyou.tech,available,13.99,,44,1,9,name.com,,
-75369adf-6dc1-4f37-afce-1bae6f487a49,makesense.tech,resell,,,82,14,10,"Sav.com, LLC - 30",25/06/2025 00:03,25/06/2026 23:59
+75369adf-6dc1-4f37-afce-1bae6f487a49,makesense.tech,resell,,,82,13,10,"Sav.com, LLC - 30",25/06/2025 00:03,25/06/2026 23:59
 75954c6f-5d61-4b08-a740-5eb20c775898,pointofcare.tech,available,13.99,,70,4,13,name.com,,
 76067b9d-3e5f-4c88-862c-619649f41161,disappointment.tech,premium,87.5,350,50,4,14,namecheap,,
 77e40865-082d-4b79-8fa4-f218f3bc6392,overrated.tech,premium,156.25,,60,6,10,name.com,,
@@ -222,7 +223,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 91e1218c-ffe3-45c1-84f7-bcfd0ecf8ed6,proxycard.tech,available,13.99,,44,2,10,name.com,,
 9235ad26-88bd-4a55-8f63-d7fb35457d76,filings.tech,premium,87.5,350,48,8,7,namecheap,,
 9295c928-d6f5-44b1-b2aa-cf5941dc02a6,oranything.tech,available,13.99,,44,1,11,name.com,,
-929cf5dd-5214-46f5-b7fb-e2e991baa645,saveit.tech,available,13.99,,74,13,7,name.com,,
+929cf5dd-5214-46f5-b7fb-e2e991baa645,saveit.tech,available,13.99,,74,12,7,name.com,,
 92da3bf9-c346-4d56-848a-eb76e541f669,alcoholproblem.tech,available,13.99,,30,1,15,name.com,,
 933f24d4-5632-458f-acca-e88dcca6d7c2,takealeak.tech,available,13.99,,63,1,11,name.com,,
 936ec0db-6a3d-4673-815a-395f0959b938,divorcing.tech,available,13.99,,46,6,9,name.com,,
@@ -249,7 +250,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 9faab437-bf60-4bf6-9bb7-a84c2ce82a18,finalreckoning.tech,available,13.99,,58,2,15,name.com,,
 9fe2cb6a-d9eb-45bf-aafb-894a5b3eb066,stadia.tech,premium,156.25,,66,22,6,name.com,,
 a0b7077b-d189-4b02-bbe2-bd82c86a9f01,knocks.tech,available,13.99,,48,5,6,name.com,,
-a10b4f86-4145-4645-82d6-2bce8431585f,popup.tech,resell,,,84,29,6,Squarespace Domains LLC,23/02/2018 02:19,23/02/2027 23:59
+a10b4f86-4145-4645-82d6-2bce8431585f,popup.tech,resell,,,84,28,6,Squarespace Domains LLC,23/02/2018 02:19,23/02/2027 23:59
 a21ba397-3afb-4756-814a-a6246a3e1fc2,salts.tech,premium,312.5,,56,7,5,name.com,,
 a25da2ad-9263-4201-a98c-3082d0ea5fed,offenses.tech,available,8.99,68.99,40,2,8,namesilo,,
 a331ea32-1d5d-4c57-944c-484357cc8c2a,demoted.tech,available,8.99,68.99,46,1,7,namesilo,,
@@ -276,7 +277,7 @@ b41bd73b-1e2d-452d-bd0f-0664d5555594,thoughts.tech,premium,87.5,350,65,18,8,name
 b48e39f2-c03a-4fcb-aed9-310ad1799160,gomad.tech,available,8.99,68.99,70,5,6,namesilo,,
 b4bf24f6-2192-42eb-8a4c-25e44762f006,silences.tech,premium,312.5,,46,3,8,name.com,,
 b5a61c3d-7d8c-44ad-a619-28c6ebf384a3,counselling.tech,resell,,,82,13,11,Squarespace Domains LLC,19/04/2023 12:33,19/04/2027 23:59
-b602691c-4afd-464d-ad41-4732765dc027,keepunder.tech,available,13.99,,66,1,10,name.com,,
+b602691c-4afd-464d-ad41-4732765dc027,keepunder.tech,available,13.99,,66,0,10,name.com,,
 b6869ab4-33ec-47d9-a639-c97885ccf495,proxybullying.tech,available,13.99,,28,1,14,name.com,,
 b6992589-4587-4e3f-a69f-8a67ca038738,slipthrough.tech,available,13.99,,66,1,12,name.com,,
 b7742d30-4a60-43cc-8129-d3ee91269ed5,distributed.tech,resell,,,64,21,11,UM DOMAINS PTE. LTD.,15/01/2026 21:52,15/01/2027 23:59
@@ -287,7 +288,7 @@ b9730bb6-63c8-40a9-8d75-b17b2ee494f5,slicedbread.tech,available,13.99,,86,4,12,n
 b97cd969-c9a5-4e93-956a-699d9a9ab009,smashandgrab.tech,available,13.99,,48,2,14,name.com,,
 ba034c6e-ae24-4f65-a9ba-bfa404a3aeda,demoting.tech,available,8.99,68.99,46,1,8,namesilo,,
 babfa3b3-31bc-46c8-8ba2-b088adc207dd,reprimanded.tech,available,8.99,68.99,42,1,11,namesilo,,
-bb49a413-ea7a-4ba8-ac88-21819627ccee,youthink.tech,available,13.99,,52,6,9,name.com,,
+bb49a413-ea7a-4ba8-ac88-21819627ccee,youthink.tech,available,13.99,,52,5,9,name.com,,
 bba39794-de47-4944-9a17-b3653317f34d,poreover.tech,available,13.99,,62,1,9,name.com,,
 bc3381d4-efa1-4a76-a487-3c46fac2cc7b,WorldWarIII.tech,available,58.98,,48,3,13,namecheap,,
 bc8973d0-6bf1-4556-95c5-f030bbe9830c,visited.tech,available,13.99,,76,6,7,name.com,,
@@ -306,7 +307,7 @@ c5ebea85-eb39-49a5-96f8-9212c638fc42,noses.tech,available,8.99,68.99,48,3,5,name
 c5f92a75-b5fa-4213-a62e-db79156bb453,behindschedule.tech,available,13.99,,38,1,15,name.com,,
 c8ab74e5-77e3-4d1d-b286-36a93f5c0684,childmurderer.tech,available,13.99,,30,1,14,name.com,,
 c8cb508f-63cb-4f07-a65b-0f1d9638efcf,doesnotcompute.tech,available,13.99,,40,3,16,name.com,,
-c8f7a292-33ac-4cf2-b1fe-81c2b3597280,filed.tech,premium,87.5,350,48,7,5,namecheap,,
+c8f7a292-33ac-4cf2-b1fe-81c2b3597280,filed.tech,premium,87.5,350,48,6,5,namecheap,,
 c93840a9-44dc-48bf-93c5-73c493508730,foes.tech,premium,156.25,,46,6,4,name.com,,
 ca3134e0-e17e-40f2-92ef-db96d46229f8,geese.tech,resell,,,53,10,5,"DNSPod, Inc.",07/03/2022 01:01,07/03/2027 23:59
 cadbc1ad-ea44-4d5a-bebb-f9c4c4df25fe,proxyfight.tech,available,13.99,,44,1,11,name.com,,
@@ -314,7 +315,7 @@ cc1efa5b-71cb-49a0-9a35-fa3e4cd2c770,cheesedown.tech,available,13.99,,62,0,11,na
 cd0b8636-46e3-4164-80ef-6c3040c4eb82,childsextourism.tech,available,8.99,68.99,30,1,17,namesilo,,
 cd63661c-7898-493a-9bd8-7258e2d6b733,havenobusiness.tech,available,13.99,,60,1,16,name.com,,
 cda07f92-5448-43a0-8acf-902271b27f46,axes.tech,premium,312.5,,36,10,4,name.com,,
-cdf73ea1-54d9-42f9-98be-aeabacab91a4,keepitdown.tech,available,13.99,,46,0,12,name.com,,
+cdf73ea1-54d9-42f9-98be-aeabacab91a4,keepitdown.tech,available,13.99,,46,1,12,name.com,,
 ce2a9457-6f0a-48b6-97d1-08da90c48948,pls.tech,resell,,,60,23,3,Squarespace Domains LLC,30/11/2015 02:32,30/11/2026 23:59
 ced48f21-c2fa-4738-be05-7a722ee6032f,thickskinned.tech,available,13.99,,52,1,13,name.com,,
 cf39f453-a0fd-436d-ab29-791892a894e8,amuse.tech,resell,,,82,13,5,Squarespace Domains LLC,01/03/2019 20:06,01/03/2027 23:59
@@ -326,7 +327,7 @@ d18b267b-1c34-4461-99a1-bae3cc917492,deeper.tech,resell,,,56,19,6,Xin Net Techno
 d285c6ba-bb9f-48c9-828c-11f22d106c5e,quitting.tech,premium,312.5,,54,4,8,name.com,,
 d2b1a3b7-4f75-404d-9fb4-419a61e01d97,liveblog.tech,available,13.99,,76,5,9,name.com,,
 d34fd93b-b2ad-49f9-9f76-fd9cef3d63fc,notsomuch.tech,available,13.99,,46,1,11,name.com,,
-d4222f65-7d0d-4554-920a-4dc66a176b50,havenots.tech,available,13.99,,60,5,9,name.com,,
+d4222f65-7d0d-4554-920a-4dc66a176b50,havenots.tech,available,13.99,,60,4,9,name.com,,
 d45b4b7b-9164-4da2-bc27-0fb7f169f000,MickeyMouse.tech,available,58.98,,86,11,12,namecheap,,
 d488b1c2-ff24-41a7-a5b9-09bdc5d262e3,disappoints.tech,available,8.99,68.99,36,1,11,namesilo,,
 d57ab385-1d30-40d3-b29d-8926f6e37b2d,Ichooseviolence.tech,available,58.98,,44,1,17,namecheap,,
@@ -345,12 +346,12 @@ e0ead87a-7122-4d83-bd0d-b08e946cc7f5,swords.tech,premium,156.25,,52,10,6,name.co
 e179d959-6d0a-424f-a211-5c5b43bdd621,gaps.tech,resell,,,40,8,4,"DNSPod, Inc.",28/01/2024 00:32,28/01/2027 23:59
 e300ec54-febd-45ae-a44d-6874c6894ec2,allnighter.tech,premium,,,72,2,11,,,
 e36d595a-c84f-477d-8279-5885bc89f558,turnedoff.tech,available,13.99,,42,1,10,name.com,,
-e37468fa-624e-453b-b230-86df9811755d,makeitcount.tech,available,13.99,,72,8,13,name.com,,
+e37468fa-624e-453b-b230-86df9811755d,makeitcount.tech,available,13.99,,72,7,13,name.com,,
 e37ee3bc-f7dd-4e51-b3d0-49eb5fa98ac5,mistakes.tech,premium,312.5,,52,7,8,name.com,,
 e411f717-dc42-4091-bbe6-ba93d8754c88,parkingfine.tech,available,13.99,,46,2,12,name.com,,
 e6358408-7394-4f20-9061-bed8419da41a,takeanap.tech,available,13.99,,73,2,10,name.com,,
 e6664b9d-c524-4e84-ad51-89c0657eedde,terrifies.tech,available,13.99,,39,1,9,name.com,,
-e680a43a-5a83-455f-809c-47471bc36f45,sweettea.tech,available,13.99,,78,8,9,name.com,,
+e680a43a-5a83-455f-809c-47471bc36f45,sweettea.tech,available,13.99,,78,6,9,name.com,,
 e6f17d91-1d4f-4f15-a348-0ca4efffacb0,suggestions.tech,resell,,,56,5,11,Namify Domains Inc,03/03/2026 21:29,03/03/2027 23:59
 e78d3356-5cd2-4482-9749-2cbe6b9e7e05,risks.tech,premium,312.5,,43,10,5,name.com,,
 e8ff82b8-be94-4ab7-a05e-9265cf9c6fdd,shouts.tech,available,13.99,,47,5,6,name.com,,
@@ -375,7 +376,7 @@ f467f229-9aaa-411d-814d-10a33b2a29cb,tended.tech,available,8.99,68.99,50,7,6,nam
 f4d50d44-2a94-4e60-8853-bde65d62cc23,takehuff.tech,available,8.99,68.99,64,1,9,namesilo,,
 f658d6d2-46e3-4026-b34d-7b312459637e,outofmyway.tech,available,8.99,68.99,34,1,13,namesilo,,
 f7150af2-53e4-4f9b-824e-24148c60dc36,gomissing.tech,available,13.99,,70,1,10,name.com,,
-f87897bc-3545-45fa-9a91-bb2e17bd0c91,hangover.tech,premium,312.5,,62,12,9,name.com,,
+f87897bc-3545-45fa-9a91-bb2e17bd0c91,hangover.tech,premium,312.5,,62,13,9,name.com,,
 f87cd012-3273-4bc6-b7c6-ce6f0a88be3a,prettiest.tech,premium,87.5,350,62,4,9,namecheap,,
 f98908d0-152c-4c1e-adfe-5a4b7cea86b3,oppositions.tech,available,8.99,68.99,48,2,11,namesilo,,
 f9894f5c-c877-4606-bda9-92b067ad03e2,ingredients.tech,resell,,,56,14,11,"Chengdu West Dimension Digital Technology Co., Ltd.",05/03/2026 07:08,05/03/2027 23:59
@@ -389,11 +390,11 @@ fb7f5528-b2a5-417a-83c7-e176abe96b65,parkup.tech,available,13.99,,59,4,7,name.co
 fb9492ce-e44e-4ba9-ab32-2c38275ba940,paths.tech,resell,,,53,13,5,Squarespace Domains LLC,03/12/2023 21:58,03/12/2026 23:59
 fcf9ac44-63a5-4850-a202-abc360fda7ae,OpiumWar.tech,available,58.98,,52,1,9,namecheap,,
 fd87df44-833f-4bb2-ae28-026c476568d7,mortars.tech,premium,156.25,,40,2,7,name.com,,
-fdfaf3e0-a53f-43a1-a444-a7b50c7b0207,mistakenidentity.tech,available,13.99,,52,2,17,name.com,,
+fdfaf3e0-a53f-43a1-a444-a7b50c7b0207,mistakenidentity.tech,available,13.99,,52,1,17,name.com,,
 fe82b1af-8a6c-44ba-9365-4d2a717e3ec4,mouthed.tech,available,8.99,68.99,63,1,7,namesilo,,
 fe924fe4-7dc2-43ce-b395-538f1c5c00ca,arrested.tech,premium,156.25,,60,7,8,name.com,,
 fed0dcae-14cd-4c1d-a114-39c9c5e66dac,moulds.tech,premium,87.5,350,52,5,6,namecheap,,
-ffc0c3bc-ce68-454f-8fbe-fe1a34da2808,onfire.tech,resell,,,50,12,7,Squarespace Domains LLC,22/10/2024 01:51,22/10/2026 23:59
+ffc0c3bc-ce68-454f-8fbe-fe1a34da2808,onfire.tech,resell,,,50,13,7,Squarespace Domains LLC,22/10/2024 01:51,22/10/2026 23:59
 c96200b7-f8e4-4f50-94e0-4804936f9d81,intercontinental.tech,premium,,,60,44,16,,,
 7657ff9c-810d-4102-a438-4fc14ee0d122,babish.tech,premium,,,72,76,6,,,
 1ab0dea2-e5fd-46e5-93c6-f5ab7f911c0e,oilplatform.tech,premium,,,54,72,12,,,
@@ -497,7 +498,7 @@ a94e3ce4-40da-440a-8b00-bd341c78cbff,seedgrain.tech,premium,,,56,72,10,,,
 4046243f-3df1-4cff-9362-b03936168e8f,SoleBank.tech,premium,,,,20,9,,,
 cdf975f4-3fca-4d98-8c43-71b4cb393fb2,Kentishglory.tech,premium,,,54,72,13,,,
 7722bdc8-f861-46ac-91f8-b8c6c1535dc1,loyallove.tech,premium,,,52,72,10,,,
-4d310cc3-5c99-4d9d-a0ab-5560cb58a03e,comeoutontop.tech,premium,,,72,0,15,,,
+4d310cc3-5c99-4d9d-a0ab-5560cb58a03e,comeoutontop.tech,premium,,,72,1,15,,,
 4ed487a5-7d83-48d3-b6cf-fc67e281fa46,wintheday.tech,premium,,,,84,11,,,
 4b2c3578-a49a-4475-88ce-7e51b7619fea,kingofthedoos.tech,premium,,,54,72,16,,,
 4695a648-4dc4-448e-aaae-ecd28e0437b3,bigtent.tech,premium,,,58,88,8,,,
@@ -957,7 +958,7 @@ eca34eda-b6d1-4f39-b67a-c127fcb2796a,shooer.tech,premium,,,58,72,6,,,
 28004dde-11b7-4ea5-9902-eabc91a86e4f,sealin.tech,premium,,,62,84,7,,,
 18544fff-dd14-4135-9861-5fd3347852f1,actual.tech,resell,,,96,28,6,"Chengdu West Dimension Digital Technology Co., Ltd.",26/10/2017 08:13,26/10/2026 23:59
 42c5a8e7-eb97-4c64-9b10-6968837e4e44,blading.tech,premium,,,58,20,7,,,
-7431398f-17f5-45bd-9cfb-f2f51ccd69b9,tothinkthat.tech,premium,,,,2,13,,,
+7431398f-17f5-45bd-9cfb-f2f51ccd69b9,tothinkthat.tech,premium,,,,1,13,,,
 861db97d-f716-439c-acd9-0ebc9c625a78,absolves.tech,premium,,,36,8,8,,,
 3dd9352b-5f6b-4aeb-8b0e-3d0da3bcdf7c,springtight.tech,premium,,,,72,12,,,
 b8c47b5f-9c26-451b-977d-35d9c7142b49,syncretistic.tech,premium,,,48,72,12,,,
@@ -998,4 +999,3 @@ eb37eae3-7ff6-45ff-b343-70f4700e7d85,haircloth.tech,premium,,,55,72,9,,,
 532c2e0b-dc8e-44e9-b72a-6f5b8bbc2300,guangdong.tech,premium,,,48,84,9,,,
 a53f1403-17dc-4691-bbb5-7b87062ebcb3,grazing.tech,premium,,,64,76,7,,,
 415cf7b8-1dd4-4d01-ad8c-25dc6ef29a7a,musicstick.tech,premium,,,68,72,11,,,
-fd6a356c-594c-4a62-a84d-537607495afa,clearinghouses.tech,premium,,,40,16,14,,,
