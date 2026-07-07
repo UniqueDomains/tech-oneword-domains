@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .tech one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **71,265 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 71,265 domains · **Median ask:** $574.28 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 71,265 domains · **Median ask:** $329.16 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tech`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tech`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TECH one-word domain 
 
 ### Files
 
-- `tech.csv` — public CSV extract (1,000 rows)
-- `tech.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tech.csv`, public CSV extract (1,000 rows)
+- `tech.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| massproduction.tech | available | $13.99    | $84.99        | 54             | 72     | 15     | name.com                                            |
-| Lamborghini.tech    | resell    | —         | —             | 84             | 100    | 11     | Namecheap                                           |
-| agricultural.tech   | premium   | $650      | $1,300        | 74             | 84     | 12     | namecheap                                           |
-| abaxially.tech      | available | $49.98    | —             | 44             | 72     | 9      | namecheap                                           |
-| ignition.tech       | resell    | —         | —             | 70             | 88     | 8      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
-| accounting.tech     | premium   | $1,625    | $3,250        | 64             | 84     | 10     | namecheap                                           |
-| saveit.tech         | available | $13.99    | —             | 74             | 12     | 7      | name.com                                            |
-| treasury.tech       | resell    | —         | —             | 68             | 84     | 8      | Namecheap                                           |
-| oral.tech           | premium   | $312.50   | $1,250        | 58             | 84     | 4      | name.com                                            |
-| MickeyMouse.tech    | available | $58.98    | —             | 86             | 11     | 12     | namecheap                                           |
-| otter.tech          | resell    | —         | —             | 56             | 84     | 5      | HOSTINGER operations, UAB                           |
-| coal.tech           | premium   | $312.50   | $1,250        | 50             | 84     | 4      | name.com                                            |
-| getlucky.tech       | available | $13.99    | —             | 84             | 10     | 9      | name.com                                            |
-| Minecraft.tech      | resell    | —         | —             | 91             | 82     | 9      | Sav.com, LLC - 25                                   |
-| internship.tech     | premium   | $3,125    | $12,500       | 62             | 80     | 10     | name.com                                            |
-| howdo.tech          | available | $13.99    | —             | 58             | 10     | 6      | name.com                                            |
-| agents.tech         | resell    | —         | —             | 56             | 50     | 6      | Spaceship, Inc.                                     |
-| cladding.tech       | premium   | $78.12    | $312.50       | 54             | 80     | 8      | name.com                                            |
-| familybusiness.tech | available | $13.99    | —             | 68             | 9      | 15     | name.com                                            |
-| quick.tech          | resell    | —         | —             | 72             | 43     | 5      | Spaceship, Inc.                                     |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| bared.tech   | available | $8.99     | $68.99        | medium         | low    | 5      | namesilo                                            |
+| fork.tech    | resell    | —         | —             | high           | low    | 4      | Squarespace Domains LLC                             |
+| but.tech     | premium   | $781.25   | —             | high           | low    | 3      | name.com                                            |
+| Serbs.tech   | available | $8.99     | $68.99        | low            | low    | 5      | namesilo                                            |
+| aural.tech   | resell    | —         | —             | medium         | low    | 5      | Squarespace Domains LLC                             |
+| had.tech     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                            |
+| relies.tech  | available | $8.99     | $68.99        | low            | low    | 6      | namesilo                                            |
+| organ.tech   | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| hat.tech     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                            |
+| aswell.tech  | available | $8.99     | $68.99        | high           | low    | 7      | namesilo                                            |
+| otter.tech   | resell    | —         | —             | medium         | high   | 5      | HOSTINGER operations, UAB                           |
+| lag.tech     | premium   | $312.50   | —             | medium         | low    | 3      | name.com                                            |
+| dishup.tech  | available | $8.99     | $68.99        | high           | low    | 7      | namesilo                                            |
+| wound.tech   | resell    | —         | —             | high           | low    | 5      | Xin Net Technology Corporation                      |
+| lp.tech      | premium   | $1,750    | $7,000        | medium         | low    | 3      | namecheap                                           |
+| gelpen.tech  | available | $8.99     | $68.99        | high           | low    | 7      | namesilo                                            |
+| actual.tech  | resell    | —         | —             | high           | low    | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| ser.tech     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                            |
+| unhandy.tech | available | $8.99     | $68.99        | low            | low    | 7      | namesilo                                            |
+| seagull.tech | resell    | —         | —             | high           | low    | 7      | Xin Net Technology Corporation                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely .tech domains, so the extension itself is part of the bet. Names such as compute.tech, output.tech, and disk.tech read as direct product or infrastructure terms, while everysecond.tech, fiftyfifty.tech, and everloving.tech lean more brandable and interpretive. When comparing these domains, weigh the quality of the root word first, then ask whether the .tech ending strengthens the name or feels forced. With a median ask of $574, price discipline matters: a clear, memorable term can justify attention, but weaker phrase domains need a much stricter bar on naming quality and renewal comfort.
+This selection covers one-word .tech domain names only, filtered to a single top-level domain. It includes short, brandable options such as makesense.tech, teamwork.tech, counselling.tech, and half.tech, alongside longer coined names like trillionaire.tech and slicedbread.tech. Across more than 71,265 domains, the median asking price sits near $329, giving founders and investors a consistent price anchor when comparing names inside the .tech extension. Because every domain here shares the same TLD, evaluation comes down to word length, memorability, and how closely the name matches a specific tech use case.
 
-- All domains in this set use the .tech extension
-- Median ask is $574 across 71,254 listed names
-- Mix of keyword terms and broader brandable phrases
-- Judge fit by word quality, price, and renewal comfort
+- 71,265+ one-word .tech domain names in this selection
+- Median asking price near $329 across the set
+- Mix of short brandable names and coined tech terms
+- Updated daily to reflect current .tech domain pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TECH One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TECH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
