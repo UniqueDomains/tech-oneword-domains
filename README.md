@@ -72,7 +72,7 @@ print(df.head())
 | had.tech    | premium   | $312.50   | —             | high           | low    | 3      | name.com                                                |
 | Serbs.tech  | available | $8.99     | $68.99        | low            | low    | 5      | namesilo                                                |
 | organ.tech  | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| hat.tech    | premium   | $312.50   | —             | high           | low    | 3      | name.com                                                |
+| hat.tech    | premium   | $312.50   | $1,250        | medium         | low    | 3      | name.com                                                |
 | alumna.tech | available | $9.99     | $58.98        | medium         | low    | 6      | namecheap                                               |
 | otter.tech  | resell    | —         | —             | medium         | high   | 5      | HOSTINGER operations, UAB                               |
 | lag.tech    | premium   | $312.50   | —             | medium         | low    | 3      | name.com                                                |
