@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tech one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 80,091 domains · **Median ask:** $185.09 · **High-demand under $2,500:** 281
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-19
 **Canonical page:** `https://unique.domains/domains/tld/tech`
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
 | apish.tech  | available | $8.99     | $68.99        | low            | low    | 5      | namesilo                                                |
 | fork.tech   | resell    | —         | —             | high           | low    | 4      | Squarespace Domains LLC                                 |
-| bin.tech    | premium   | $6,900    | $6,900        | low            | low    | 3      | namesilo                                                |
+| asl.tech    | premium   | $325      | $1,300        | low            | low    | 3      | namecheap                                               |
 | bared.tech  | available | $8.99     | $68.99        | medium         | low    | 5      | namesilo                                                |
 | aural.tech  | resell    | —         | —             | medium         | low    | 5      | Squarespace Domains LLC                                 |
-| but.tech    | premium   | $781.25   | —             | high           | low    | 3      | name.com                                                |
+| bin.tech    | premium   | $6,900    | $6,900        | low            | low    | 3      | namesilo                                                |
 | Serbs.tech  | available | $8.99     | $68.99        | low            | low    | 5      | namesilo                                                |
 | organ.tech  | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| had.tech    | premium   | $312.50   | —             | high           | low    | 3      | name.com                                                |
+| but.tech    | premium   | $781.25   | —             | high           | low    | 3      | name.com                                                |
 | alumna.tech | available | $9.99     | $58.98        | medium         | low    | 6      | namecheap                                               |
 | otter.tech  | resell    | —         | —             | medium         | high   | 5      | HOSTINGER operations, UAB                               |
-| hat.tech    | premium   | $325      | $1,300        | medium         | low    | 3      | namecheap                                               |
+| had.tech    | premium   | $312.50   | —             | high           | low    | 3      | name.com                                                |
 | beaked.tech | available | $8.99     | $68.99        | low            | low    | 6      | namesilo                                                |
 | wound.tech  | resell    | —         | —             | high           | low    | 5      | Xin Net Technology Corporation                          |
-| lag.tech    | premium   | $312.50   | —             | medium         | low    | 3      | name.com                                                |
+| hat.tech    | premium   | $325      | $1,300        | medium         | low    | 3      | namecheap                                               |
 | relies.tech | available | $8.99     | $68.99        | low            | low    | 6      | namesilo                                                |
 | actual.tech | resell    | —         | —             | high           | low    | 6      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| lp.tech     | premium   | $1,750    | $7,000        | medium         | low    | 3      | namecheap                                               |
+| lag.tech    | premium   | $312.50   | —             | medium         | low    | 3      | name.com                                                |
 | uremic.tech | available | $8.99     | $68.99        | low            | low    | 6      | namesilo                                                |
 | cyclic.tech | resell    | —         | —             | medium         | low    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TECH One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TECH One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
