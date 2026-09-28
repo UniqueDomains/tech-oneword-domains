@@ -11,6 +11,7 @@ c38528e8-5321-44eb-a14c-259778d1b5b3,amerind.tech,premium,81.25,325,high,low,7,n
 bf9e2231-5570-451d-a0e7-efc616d94793,aright.tech,premium,81.25,325,high,low,6,namecheap,,,13/09/2026 20:49
 f4c296bf-3df5-4575-b8e1-734408d90537,heretical.tech,premium,81.25,325,high,low,9,namecheap,,,14/08/2026 12:35
 6f8004ed-f14a-4607-9a90-4ab1ea4a21a0,fortnightly.tech,available,,,high,high,11,,,,
+d4e9a70d-cab2-4605-9ea8-af2ccedde415,callahan.tech,premium,302.5,302.5,medium,low,8,namesilo,,,28/09/2026 08:05
 1a9ffcbb-9651-4f4c-bcaf-7532875487bd,clonic.tech,available,8.99,68.99,medium,low,6,namesilo,,,12/08/2026 12:02
 b7957d5a-df48-40f9-982a-f3fa36fcd8f9,behinds.tech,available,,,medium,low,7,,,,
 4e75ebdb-3a0c-454e-8ea2-90b428c88cf0,scriptures.tech,available,,,high,medium,10,,,,
@@ -27,6 +28,7 @@ cbd13c75-01b7-4ba1-a385-944872228f26,lactase.tech,available,,,high,high,7,,,,
 15be1d21-824f-4181-bd57-d7dec4966cf6,insulating.tech,available,8.99,68.99,high,high,10,namesilo,,,27/09/2026 11:08
 fa606e87-c949-4ac2-9ba4-8d7921e2ce07,drool.tech,premium,640,640,high,low,5,namesilo,,,21/09/2026 23:48
 ee11b532-d513-4efb-aa04-66df4ecd738b,clifftop.tech,available,,,high,high,8,,,,
+e62ebe4b-2e8c-4333-a47f-8cd29ee46090,quercus.tech,resell,,,high,low,7,,,,28/09/2026 05:49
 0bc37ccb-09ad-496c-904d-4a9b90372adf,bowlers.tech,available,,,high,high,7,,,,
 c52f0e47-8ad8-4faf-b77d-216d754cdf27,servicemen.tech,available,,,high,low,10,,,,
 361baa24-70ec-48cb-aca9-2108d000a2df,enplane.tech,available,,,high,high,7,,,,
@@ -86,7 +88,7 @@ c8d1a0cd-9779-4e2c-b147-24d67028fe5a,goldtail.tech,available,,,high,high,8,,,,
 0471c08f-a490-46c4-a557-674fe97e2809,waterless.tech,available,9.99,58.98,high,low,9,namecheap,,,06/08/2026 19:03
 5ed7e17d-540f-4a42-ae99-8c1f32ea652f,polishers.tech,available,,,high,low,9,,,,
 b4352a55-0e57-4f46-81c2-29fbff7d74f1,airlines.tech,available,,,high,low,8,,,,
-37ac44d1-790b-4b05-a5d7-cf38b06b73f9,foam.tech,premium,,,high,high,4,,,,28/09/2026 02:18
+37ac44d1-790b-4b05-a5d7-cf38b06b73f9,foam.tech,premium,258.95,1035.2,high,low,4,spaceship,,,28/09/2026 05:46
 c10829e1-0275-48c9-a63b-e96d759805bb,steeping.tech,available,,,high,high,8,,,,
 72adb6bc-faeb-4df1-815e-cd085a978e0d,nonolfactory.tech,available,,,medium,low,12,,,,
 36756ce0-5c3b-474f-a286-45c7219c67e4,bosnia.tech,premium,325,1300,high,low,6,namecheap,,,25/09/2026 02:00
@@ -96,7 +98,7 @@ c1f33e84-468a-4059-9b75-cfc06ba72799,cayey.tech,available,,,high,high,5,,,,
 02917e4a-26a0-4831-909c-648343163a63,mrs.tech,premium,3450,3450,high,low,3,namesilo,,,25/09/2026 09:30
 49f58e2b-55b8-472c-8063-fb763ec1c18c,aubange.tech,available,,,high,high,7,,,,
 12a2ccb8-1444-4828-9825-be085aee28cb,swansea.tech,available,,,high,high,7,,,,
-11dc32b0-ae2d-4595-900d-78c13d67bca2,menus.tech,premium,1107,1107,high,low,5,namesilo,,,20/09/2026 09:20
+11dc32b0-ae2d-4595-900d-78c13d67bca2,menus.tech,premium,1000.2,1107,medium,low,5,unstoppable,,,28/09/2026 08:20
 a33f1cd9-7c26-41b9-a23c-7333d3857d55,entered.tech,available,8.99,68.99,medium,low,7,namesilo,,,18/09/2026 11:17
 24b8e134-3d25-4580-bff7-68a775d7ed04,hurt.tech,resell,,,high,low,4,Squarespace Domains LLC,02/07/2018 06:29,02/07/2027 23:59,26/09/2026 06:46
 20d98956-17fb-481f-b9be-8254f4e2e097,highbinder.tech,available,,,high,high,11,,,,
@@ -154,7 +156,7 @@ b1917187-ed7a-4e53-811a-24c308080c44,arboretum.tech,premium,640,640,high,low,9,n
 1e4d93ee-373a-4281-b675-cae2968ab2e5,qualifications.tech,available,,,medium,low,14,,,,
 ed9c85c9-9bec-4653-aab6-d398cd5a5993,barrooms.tech,available,,,medium,low,8,,,,
 b13eba3c-ae27-4045-a160-8bceb4685830,vulnerability.tech,available,,,high,high,13,,,,
-067924bf-74bd-451a-91c8-4f947ab9e039,graphic.tech,premium,781.25,3125,high,low,7,name.com,,,20/08/2026 18:09
+067924bf-74bd-451a-91c8-4f947ab9e039,graphic.tech,premium,781.25,3125,high,low,7,name.com,,,28/09/2026 05:58
 24923b08-543f-4a99-b52f-8b2d2fdf4657,copper.tech,premium,1107,1107,high,low,6,namesilo,,,20/09/2026 22:44
 9060725d-20d5-4e38-b377-9f657b14f8b4,type.tech,premium,312.5,,high,low,4,name.com,,,
 cd88a5a2-f6d5-4029-815b-12f6f68f09eb,gleeful.tech,premium,81.25,325,high,low,7,namecheap,,,20/08/2026 14:21
@@ -165,7 +167,7 @@ cd88a5a2-f6d5-4029-815b-12f6f68f09eb,gleeful.tech,premium,81.25,325,high,low,7,n
 fbf6882c-c4e0-4615-ac75-f0eed7bb55bf,yer.tech,available,,,high,high,3,,,,
 aef9d04c-1607-4c7d-92d0-d2836fd26774,huzzah.tech,available,,,high,high,6,,,,
 45b435c5-5e1b-4241-b798-7ef9bad17ab6,brigand.tech,available,8.99,68.99,high,low,7,namesilo,,,22/09/2026 01:20
-c180b7e8-875e-4ad5-9e23-9b57ea148568,corporate.tech,premium,1107,1107,high,low,9,namesilo,,,23/09/2026 06:11
+c180b7e8-875e-4ad5-9e23-9b57ea148568,corporate.tech,premium,258.95,1035.2,high,low,9,spaceship,,,28/09/2026 04:27
 09808209-3be9-4349-aba4-1fc222310af2,pestle.tech,available,,,high,high,6,,,,
 2a17b592-bbd7-48d0-b693-5f6615266828,viscountess.tech,available,,,high,high,11,,,,
 1484ec51-fa8f-4b56-a8c1-cf90a5ebfa7c,furlong.tech,available,,,high,high,7,,,,
@@ -278,7 +280,7 @@ acabc32b-ff61-44fb-bc2c-83b212430440,bankrolled.tech,available,,,medium,low,10,,
 5c2d9f6b-ad2a-4d70-a51c-373f9090b537,album.tech,premium,312.5,,high,low,5,name.com,,,
 e1d0a5a8-1e00-4d7e-876a-a8b7db0a700d,buyout.tech,available,,,high,high,6,,,,
 f3f96308-7733-424d-96c1-d3ae82c75464,whaddaya.tech,available,,,high,high,8,,,,
-e5aea36c-6ffd-44c0-9434-8f80cd83f8a0,guaranteed.tech,available,,,high,medium,10,,,,
+e5aea36c-6ffd-44c0-9434-8f80cd83f8a0,guaranteed.tech,premium,6900,6900,high,low,10,namesilo,,,28/09/2026 04:50
 c4c40a39-af55-45a9-85c7-d92c961016c4,divorcements.tech,available,,,medium,low,12,,,,
 a06c96e5-c393-425e-8d11-aaa2ff2331ac,speedos.tech,available,,,high,low,7,,,,
 14c49b3b-63a9-4c1d-9fea-0c31d0036738,glaur.tech,available,,,high,low,5,,,,
@@ -388,7 +390,7 @@ ec9ec600-dd60-40ce-9baa-0fad624984fd,hone.tech,premium,325,1300,high,low,4,namec
 c5a4e422-6684-459c-a4f1-3144b3918a76,doorpost.tech,available,,,high,high,8,,,,
 ae839219-957d-4aaa-899f-6caa8bef43e1,minoan.tech,premium,312.5,1250,high,low,6,name.com,,,24/08/2026 23:59
 b82af218-0c0f-4fb5-b973-4b95726e8ad5,hypermarket.tech,premium,6900,6900,high,high,11,namesilo,,,25/09/2026 11:00
-c0519178-ae70-45ac-a0bb-73317f2c06bb,connectors.tech,available,,,high,medium,10,,,,
+c0519178-ae70-45ac-a0bb-73317f2c06bb,connectors.tech,premium,640,640,high,low,10,namesilo,,,28/09/2026 05:16
 d58665d1-53bf-44aa-b3c7-e8160d0ebfcd,assessments.tech,available,,,high,medium,11,,,,
 64e1506d-bb50-460a-89b7-78e60ec170f6,result.tech,premium,312.5,,high,low,6,name.com,,,
 2587ade6-f7f6-4aab-8485-40711bfe4863,reexaminations.tech,available,,,medium,low,14,,,,
@@ -569,6 +571,7 @@ d6892dfc-af2b-40ca-8af1-e8c660832a7e,promulgation.tech,available,,,high,low,12,,
 ba770f82-4bc8-4e01-8063-4baffeba63d7,bedazzled.tech,available,,,high,high,9,,,,
 f88519a4-9e1f-4fa9-98e0-cd4829ce2fc3,preteen.tech,premium,81.25,325,high,medium,7,namecheap,,,09/09/2026 01:08
 06d2a7a6-ba35-44a5-8582-b9720a7ea6b0,megavolts.tech,available,,,medium,low,10,,,,
+2cd983a5-9ae1-4bc6-bbe2-a66d3402c37e,jin.tech,resell,,,high,low,3,,,,28/09/2026 07:26
 a4ecf4f3-0392-47c5-a9d6-09995086955c,obstetric.tech,premium,81.25,325,high,low,9,namecheap,,,04/09/2026 00:03
 1f719762-2cee-419e-8d96-4f701cab4498,geniuses.tech,available,,,high,low,8,,,,
 e4f5ee0f-3458-4785-82ff-f18007b6e1ed,metallicly.tech,available,,,high,high,10,,,,
@@ -613,7 +616,7 @@ d63b2701-4544-49ef-b2bf-1e16e6286801,substantiate.tech,available,,,high,high,12,
 afe1aac0-3307-471d-9b6e-12319441c05d,stole.tech,premium,640,640,high,low,5,namesilo,,,27/09/2026 05:29
 2a32625b-61da-4331-a6d2-67cb56bbbe36,international.tech,premium,3450,3450,high,medium,13,namesilo,,,25/09/2026 11:34
 4783b350-9e82-4b55-9697-801b2fbd3e53,imitative.tech,available,8.99,68.99,high,low,9,namesilo,,,13/08/2026 03:34
-eee836ab-42b3-408c-88f7-88aa5fbeea5f,suitcase.tech,premium,640,640,high,high,8,namesilo,,,27/09/2026 05:20
+eee836ab-42b3-408c-88f7-88aa5fbeea5f,suitcase.tech,premium,640,640,high,low,8,namesilo,,,28/09/2026 06:48
 d06d9024-5fc9-4ba2-8739-7bb99143e092,nfl.tech,premium,1107,1107,high,low,3,namesilo,,,26/09/2026 03:28
 4665b7a1-9790-4e81-ba17-135902f5e980,resuscitation.tech,available,,,high,low,13,,,,
 1bbb03a4-7368-4d1f-a577-056f855a22e6,candlelights.tech,available,,,high,low,12,,,,
@@ -678,6 +681,7 @@ a0d2b06b-79ea-4e9b-8daa-817acc19d2ab,miffed.tech,premium,156.25,625,medium,low,6
 888ee4ae-1432-42f7-83bb-556a83e32186,triliteral.tech,available,,,high,high,10,,,,
 67ad4f53-77a1-43ef-97e6-74a9489380e9,handicap.tech,premium,1107,1107,high,low,8,namesilo,,,24/09/2026 07:39
 19078c5c-5f2b-4828-a583-2e27b3a06544,chieftains.tech,available,,,high,low,10,,,,
+b8eb8458-addb-4ea1-994c-fd4040e88f85,melrose.tech,premium,1107,1107,medium,low,7,namesilo,,,28/09/2026 08:55
 bbbbc866-c5ba-413e-b29e-7e803f1debf9,recursive.tech,resell,,,high,medium,9,Squarespace Domains LLC,03/06/2017 14:59,03/06/2027 23:59,26/09/2026 08:32
 7504bea0-03ea-45e3-92da-f776e4d5b1f4,blondish.tech,available,,,high,high,8,,,,
 393d842e-a412-4037-80c4-064f16311d5c,chevvy.tech,available,,,high,high,6,,,,
@@ -727,7 +731,7 @@ e1ea7879-4803-460b-9b07-08789b71b98c,tenderizers.tech,available,,,medium,low,11,
 abbc19bc-25d2-4bf0-9c9c-89bff9d7515a,guiding.tech,premium,312.5,1250,high,low,7,name.com,,,14/08/2026 08:49
 f71e6150-62cb-4594-8e19-38a2feeaf7ae,featured.tech,premium,1107,1107,high,low,8,namesilo,,,24/09/2026 17:26
 f13fd7a9-315b-428e-8e37-97a1a6117b7c,fraudulent.tech,premium,156.25,625,medium,low,10,name.com,,,13/08/2026 21:10
-7b66ed6b-4abf-4f76-a509-95cd171805ca,come.tech,premium,1107,1107,high,low,4,namesilo,,,24/09/2026 05:54
+7b66ed6b-4abf-4f76-a509-95cd171805ca,come.tech,premium,1000.2,1107,high,low,4,unstoppable,,,28/09/2026 09:23
 9b220e62-5cce-4895-b663-683b68c3267c,chives.tech,premium,1107,1107,high,low,6,namesilo,,,18/09/2026 11:27
 1f29aa01-16d8-4a2e-9a48-bd080956a9b5,whatwg.tech,available,,,high,high,6,,,,
 f7600d65-3a5c-47f0-9710-ee164e33804f,xanthous.tech,available,5.98,58.98,medium,low,8,namecheap,,,13/09/2026 14:00
@@ -764,6 +768,7 @@ c8db138b-3001-46af-96ab-1fdd6693ca79,modernized.tech,premium,640,640,high,low,10
 250b4002-ffa1-4b49-be4c-0316e032bb91,reediting.tech,available,,,medium,low,9,,,,
 d0352510-c1c6-48cf-989d-39aebaac3fbd,chauffeuress.tech,available,,,high,high,12,,,,
 d96f25f3-d3bc-4d7a-987c-b862cc9965d8,maginot.tech,available,9.99,58.98,high,low,7,namecheap,,,19/09/2026 04:15
+4f206f54-0dc2-4f0a-a698-c0b85de15c5c,brandeis.tech,premium,81.25,325,medium,low,8,namecheap,,,28/09/2026 08:12
 d44fe7cc-7d3a-4800-91d6-2e1de911aa67,fed.tech,premium,1107,1107,high,low,3,namesilo,,,25/09/2026 22:43
 7294c743-6f3b-473c-974a-7de5b27fa9d3,glaring.tech,available,8.99,68.99,high,low,7,namesilo,,,10/08/2026 13:47
 290d8b5e-29d1-42e4-8028-63066f061ca9,mountainbiker.tech,available,,,high,high,14,,,,
@@ -921,7 +926,7 @@ c386bcee-9873-4bb6-a034-3a00efc67de3,midspan.tech,available,,,high,high,7,,,,
 365ca087-3ff5-498e-9ddb-99e94dd99754,cackle.tech,available,,,high,high,6,,,,
 1eae81a8-f883-4f8e-9ba5-42828cbfe7fd,madwort.tech,available,8.99,68.99,medium,low,7,namesilo,,,18/09/2026 15:25
 bdaf7341-c987-4adc-b55b-306e17376b61,differentiator.tech,available,,,high,high,14,,,,
-825a32ea-7de9-43ce-ac67-e48f06b38176,controller.tech,premium,3450,3450,high,low,10,namesilo,,,23/09/2026 23:15
+825a32ea-7de9-43ce-ac67-e48f06b38176,controller.tech,premium,2500.2,3450,high,low,10,unstoppable,,,28/09/2026 06:44
 76ecc6e8-0915-404d-9fd6-80c4955baec9,relapsing.tech,available,5.98,58.98,high,low,9,namecheap,,,09/09/2026 16:17
 6defb402-2506-48e7-a734-be05968f913c,airdrome.tech,available,8.99,68.99,high,low,8,namesilo,,,17/09/2026 12:57
 9cc063a7-dd2b-42c9-955b-fce66eaeea2c,flatboats.tech,available,,,high,low,9,,,,
@@ -958,7 +963,6 @@ cb032d00-974a-4bbc-9ae8-363aa3133843,tortuous.tech,available,5.98,58.98,medium,l
 7452d596-f3b2-4f33-975c-9223ca82ef11,extrinsic.tech,premium,156.25,625,high,low,9,name.com,,,17/08/2026 19:37
 f19b1e0d-85fe-4ac4-9fe9-9b6ab629224a,strummer.tech,available,,,high,high,8,,,,
 0ca0f453-6809-4f04-b6e1-29a39f6d9604,urge.tech,available,,,high,low,4,,,,
-1db024f7-c70e-4715-9aaf-eaddea7fadb9,storage.tech,premium,13800,13800,high,low,7,namesilo,,,23/09/2026 08:25
 cc2cd191-d22b-4f27-8655-6883e96bf59e,adultery.tech,premium,302.5,302.5,high,low,8,namesilo,,,17/09/2026 10:25
 1d26e3a8-afb9-44c4-bb7b-58f9c6913864,wigs.tech,available,,,high,medium,4,,,,
 7a5bd73c-7156-44ae-bb22-031f2f08bb20,superfluidity.tech,available,,,high,low,13,,,,
@@ -995,7 +999,3 @@ bf098674-a088-4d45-bc04-48c2472ac7bd,laser.tech,premium,3450,3450,high,low,5,nam
 7e6a0eab-bfcf-4764-9f0a-9be94f3727f2,polenta.tech,available,,,high,high,7,,,,
 4970ba75-2eee-448b-bf02-22e5b59c42b1,structures.tech,premium,312.5,,high,low,10,name.com,,,
 9e0e5a5f-55c1-4fe7-9ff3-34a7002a3e38,ragamuffin.tech,premium,81.25,325,high,low,10,namecheap,,,11/09/2026 09:09
-726d0e58-6701-46f4-a427-01ac0c21cc14,committeemen.tech,available,,,medium,low,12,,,,
-410a7c18-90fb-4a72-b7df-dbe6c7f4d1ae,gender.tech,available,,,high,high,6,,,,
-94572dee-bab2-4bc1-9629-e4c2691229eb,concluding.tech,available,8.99,68.99,high,low,10,namesilo,,,19/09/2026 15:36
-2fc44ce9-7f7b-4acd-9b31-af1b41634765,flirter.tech,available,,,high,high,7,,,,
