@@ -1,10 +1,10 @@
-# Available .TECH One-Word Domains (47,123)
+# Available .TECH One-Word Domains (47,704)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-47%2C123%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-47%2C704%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tech one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **47,123 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **47,704 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 47,123 domains · **Median ask:** $552.40 · **High-demand under $2,500:** 1,012
+**Public extract:** 1,000 rows · **Live catalog:** 47,704 domains · **Median ask:** $542.00 · **High-demand under $2,500:** 1,094
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/tech`
 **Best for:** founders, investors, studios
 
@@ -64,16 +64,16 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| abohm.tech | available | $8.99     | $68.99        | medium         | low    | 5      | namesilo                                            |
+| oclc.tech  | available | $10       | —             | high           | low    | 4      | unstoppable                                         |
 | auc.tech   | resell    | —         | —             | high           | low    | 3      | Squarespace Domains LLC                             |
 | bug.tech   | premium   | $1,562.50 | —             | high           | low    | 3      | name.com                                            |
-| bioko.tech | available | $9.99     | $58.98        | medium         | low    | 5      | namecheap                                           |
+| abohm.tech | available | $8.99     | $68.99        | medium         | low    | 5      | namesilo                                            |
 | azt.tech   | resell    | —         | —             | high           | low    | 3      | Squarespace Domains LLC                             |
 | doe.tech   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                            |
-| chaim.tech | available | $7.42     | $50.92        | high           | low    | 5      | spaceship                                           |
+| bioko.tech | available | $9.99     | $58.98        | medium         | low    | 5      | namecheap                                           |
 | bns.tech   | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | fed.tech   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                            |
-| deist.tech | available | $8.99     | $68.99        | high           | low    | 5      | namesilo                                            |
+| chaim.tech | available | $7.42     | $50.92        | high           | low    | 5      | spaceship                                           |
 | ely.tech   | resell    | —         | —             | high           | low    | 3      | Squarespace Domains LLC                             |
 | gut.tech   | premium   | $258.95   | $1,035.20     | high           | low    | 3      | spaceship                                           |
 | equid.tech | available | $8.99     | $68.99        | high           | low    | 5      | namesilo                                            |
@@ -81,7 +81,7 @@ print(df.head())
 | ias.tech   | premium   | $275      | $1,100        | high           | low    | 3      | dynadot                                             |
 | fusty.tech | available | $8.99     | $68.99        | medium         | low    | 5      | namesilo                                            |
 | jin.tech   | resell    | —         | —             | high           | low    | 3      | —                                                   |
-| mcu.tech   | premium   | $1,000.20 | —             | high           | high   | 3      | unstoppable                                         |
+| jig.tech   | premium   | $325      | $1,300        | high           | low    | 3      | namecheap                                           |
 | hubei.tech | available | $6.64     | $52.65        | high           | low    | 5      | dynadot                                             |
 | nps.tech   | resell    | —         | —             | high           | low    | 3      | —                                                   |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 47,123 live domains                        |
+| 1,000-row public sample | 47,704 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1,012 high-demand names under $2,500       |
+| Basic exported fields   | 1,094 high-demand names under $2,500       |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TECH One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TECH One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
